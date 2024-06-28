@@ -20,22 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aprimorando Consultas SQL Guia Avançado ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este artigo aborda técnicas avançadas de SQL para programadores, incluindo funções de janela, subconsultas, expressões de tabela comuns (CTEs), tabelas temporárias e otimização de consultas. Também são discutidas boas práticas e recursos de estudo para aprimorar suas habilidades. O objetivo é proporcionar um guia prático para melhorar o desempenho e a eficiência das consultas SQL em ambientes complexos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGpt para texto e Copilot para imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Já possuia alguma anotações sobre SQL, utilizei o seguinte prompt para a criação do texto:Irei te enviar algumas anotações, quero que com base nelas, você me ajude a fazer um artigo sobre SQL para programadores, quero que dê um nome criativo ao artigo:
+Processo de criação da logo:Logo for a SQL article, make the logo of the sql being a dolphin and some blue lighitning around it
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
